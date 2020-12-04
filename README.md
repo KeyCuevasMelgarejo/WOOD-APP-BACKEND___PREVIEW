@@ -23,3 +23,4 @@ Parte Back-End@Aplicacion para la identificacion de tipo de maderas
 - Cualidades: Cualidades o propiedades propias de la madera.
 - Origen: Procedencia de la madera.
 - Usos: Utilizacion y empleos de la madera identificada.
+- Success: True o false si la fotografia de madera es identificada o no.
