@@ -16,7 +16,14 @@ Parte Back-End@Aplicacion para la identificacion de tipo de maderas
 </p>
 
 # Wood App Backend - Descripción del Proyecto
-**Aplicacion para la identificacion de tipo de maderas. La aplicación devuelve un diccionario con los siguientes datos:**
+**Aplicacion para la identificacion de tipo de maderas. La aplicación analiza los siguientes tipos de madera:**
+- Pino
+- Mohena
+- Roble
+- Tornillo
+- Huayruro
+
+**El servidor devuelve un diccionario con los siguientes datos:**
 - Tipo: El nombre de la madera identificada segun el analisis.
 - Valor: El valor predictivo como resultado del analisis.
 - Estructura: Tipo de estructura de la madera.
