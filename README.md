@@ -16,7 +16,7 @@ Parte Back-End@Aplicacion para la identificacion de tipo de maderas
 </p>
 
 # Wood App Backend - Descripción del Proyecto
-**Aplicacion para la identificacion de tipo de maderas. La aplicación analiza los siguientes tipos de madera:**
+**Aplicacion para la identificacion de tipo de maderas. Se analizan los siguientes tipos de madera:**
 - Pino
 - Mohena
 - Roble
