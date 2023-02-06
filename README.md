@@ -2,7 +2,7 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# Wood App Backend - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FWOOD-APP-BACKEND___PREVIEW) <a href="/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-red.svg" alt="licencia" /></a>
+# Wood App Backend - Demo <a href="/LICENSE"><img src="https://img.shields.io/badge/licencia-MIT-red.svg" alt="licencia" /></a>
 Parte Back-End@Aplicacion para la identificacion de tipo de maderas
 
 **Nota: Si quieres ver la funcionalidad casi completa del proyecto, [ingresa al video](https://youtu.be/bH66YOTTUps) que se ha subido a YOUTUBE.
@@ -15,7 +15,7 @@ Parte Back-End@Aplicacion para la identificacion de tipo de maderas
     <img src="/Demo.gif"/>
 </p>
 
-# Wood App Backend - Descripción del Proyecto
+# Descripción del Proyecto
 **Aplicacion para la identificacion de tipo de maderas. Se analizan los siguientes tipos de madera:**
 - Pino
 - Mohena
